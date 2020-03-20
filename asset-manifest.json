@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/marvelteam/static/css/main.c78e2483.chunk.css",
+    "main.js": "/marvelteam/static/js/main.8d035d1e.chunk.js",
+    "main.js.map": "/marvelteam/static/js/main.8d035d1e.chunk.js.map",
+    "runtime-main.js": "/marvelteam/static/js/runtime-main.04302a0c.js",
+    "runtime-main.js.map": "/marvelteam/static/js/runtime-main.04302a0c.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/marvelteam/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.7c8c594d.chunk.js": "/marvelteam/static/js/2.7c8c594d.chunk.js",
+    "static/js/2.7c8c594d.chunk.js.map": "/marvelteam/static/js/2.7c8c594d.chunk.js.map",
+    "index.html": "/marvelteam/index.html",
+    "precache-manifest.bdaf15d5b2bec7bdb36fd86072c741f9.js": "/marvelteam/precache-manifest.bdaf15d5b2bec7bdb36fd86072c741f9.js",
+    "service-worker.js": "/marvelteam/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/marvelteam/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.c78e2483.chunk.css.map": "/marvelteam/static/css/main.c78e2483.chunk.css.map",
+    "static/js/2.7c8c594d.chunk.js.LICENSE.txt": "/marvelteam/static/js/2.7c8c594d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/marvelteam/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04302a0c.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.7c8c594d.chunk.js",
+    "static/css/main.c78e2483.chunk.css",
+    "static/js/main.8d035d1e.chunk.js"
+  ]
+}
